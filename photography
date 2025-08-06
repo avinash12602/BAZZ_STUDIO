@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BAZZ STUDIO Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background: #f9f9f9;
+      color: #333;
+    }
+    .portfolio {
+      max-width: 800px;
+      margin: auto;
+      text-align: center;
+    }
+    .portfolio img {
+      width: 100%;
+      max-height: 500px;
+      object-fit: cover;
+      border-radius: 10px;
+    }
+    .content {
+      margin-top: 20px;
+    }
+    .content h1 {
+      font-size: 2em;
+      color: #000;
+    }
+    .content p {
+      font-size: 1.1em;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="portfolio">
+    <img src="your-image.jpg" alt="BAZZ STUDIO Photo">
+
+    <div class="content">
+      <h1>BAZZ STUDIO 📸</h1>
+      <p>
+        We capture timeless moments with artistic flair. From <strong>weddings</strong> 💍 to <strong>studio portraits</strong> 📷 and <strong>pre-wedding films</strong> 🎞️, our lens turns memories into masterpieces.
+      </p>
+    </div>
+  </div>
+
+</body>
+</html>
