@@ -1,4 +1,4 @@
-<h1 align="center"> 📸👑 BAZZ_STUDIO 👑📸 </h1>
+<h1 align="center"> 👑 BAZZ_STUDIO 👑 </h1>
 <h4 align="center"><i></i> Here we presenting, Amazing works by Bazz studio 🥰<i></i> </h4>
 <h2 align="center">✨ What We Specialize In</h2>
 
