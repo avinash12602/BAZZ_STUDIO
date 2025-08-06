@@ -5,6 +5,7 @@
 <ul>
   <li>💍 <strong>Wedding Photography</strong></li>
   <li>🎉 <strong>Event Coverage</strong></li>
+  <li>🎞️ <strong>Film mkaing</strong></li>
   <li>📷 <strong>Portraits & Studio Shoots</strong></li>
   <li>🎞️ <strong>Pre-Wedding Films</strong></li>
   <li>✨ <strong>Candid & Traditional Styles</strong></li>
